@@ -94,7 +94,7 @@ class Difficulty {
 
   const Difficulty(
       {required this.minDistance,
-      required this.maxDistance,
-      required this.jumpSpeed,
-      required this.score});
+        required this.maxDistance,
+        required this.jumpSpeed,
+        required this.score});
 }
